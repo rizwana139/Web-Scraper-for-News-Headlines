@@ -34,3 +34,9 @@ To scrape top headlines from [The Hindu News](https://www.thehindu.com/news/) an
 3. Extracts all headlines (`<h3>` tags).
 
 4. Prints headlines and saves them into `headlines.txt` with numbering.
+ 
+**Outcome:** Automate data collection from a public website
+
+Rizwana Vempalli 
+
+**Email ID:** rrizzu139@gmail.com 
