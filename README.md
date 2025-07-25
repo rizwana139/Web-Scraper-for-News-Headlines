@@ -1,4 +1,4 @@
-# Web-Scraper-for-News-Headlines
+# Web-Scraper-for-News-Headlines ElevateLabs-Task 3
 
 This project is a Python-based web scraper that automatically collects top news headlines from a news website using `requests` and `BeautifulSoup`.
 
